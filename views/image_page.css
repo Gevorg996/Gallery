@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image-detail {
+    text-align: center;
+}
+
+.image-detail img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-detail h2 {
+    margin: 20px 0 10px;
+}
+
+.image-detail p {
+    color: #555;
+}
